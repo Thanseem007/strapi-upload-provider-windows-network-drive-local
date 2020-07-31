@@ -1,0 +1,1 @@
+# strapi-upload-provider-windows-network-drive-local
