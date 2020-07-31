@@ -1,0 +1,21 @@
+{
+  "name": "strapi-provider-upload-network-drive-local",
+  "version": "1.1.1",
+  "description": "",
+  "strapi": {
+    "isProvider": true
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "windows-network-drive": "^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thanseem007/strapi-provider-window-network-drive-local.git"
+  }
+}
